@@ -1,0 +1,8 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(”¨ï¸ùÿÿÿÿ8Çõ¨µ’/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãº€Ëÿÿÿÿÿ8Èõ¨µ’/
+b
+java:S1854 "@Remove this useless assignment to local variable "nameOfTheDay".(¡›˜ÿÿÿÿÿ8î¯µ’/
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8ô¯µ’/
+X	java:S125!"<This block of commented-out lines of code should be removed.(±¯€¤8ö¯µ’/
