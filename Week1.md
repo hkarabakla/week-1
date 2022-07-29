@@ -1038,14 +1038,6 @@ public class SimpleMath {
     boolean isFactor(int a, int b) {
         return a % b == 0;
     }
-
-    public int addAll(int[] args) {
-        int sum = 0;
-        for (int value : args) {
-            sum += value;
-        }
-        return sum;
-    }
 }
 
 public class OopDemo4 {
@@ -1055,7 +1047,7 @@ public class OopDemo4 {
         SimpleMath simpleMath = new SimpleMath();
         int addThreeAndFive = simpleMath.add(3, 5);
         boolean factorElevenAndThree = simpleMath.isFactor(11, 3);
-        int sum = simpleMath.addAll(new int[]{1, 2, 3});
+       
     }
 }
 ```
