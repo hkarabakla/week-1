@@ -731,7 +731,6 @@ public class Student {
 public class Grades {
 
   @Id
-  @Column(name = "student_id")
   private int id;
 
   private String lessonName;
